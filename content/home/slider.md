@@ -16,8 +16,8 @@ height = "500px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = ""
-  content = ""
+  title = "  "
+  content = "  "
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
