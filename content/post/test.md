@@ -9,13 +9,11 @@ summary = ""
 tags = []
 title = "Test"
 [image]
-caption = ""
-focal_point = ""
-placement = nil
+caption = "Image caption"
+focal_point = "Smart"
+placement = 0
 
 +++
-\`\`\`
-
+```
 Very interesting
-
-\`\`\`
+```
