@@ -1,6 +1,6 @@
 +++
 authors = []
-date = ""
+date = 2020-05-14T18:30:00Z
 draft = true
 featured = false
 projects = []
